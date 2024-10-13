@@ -1,0 +1,184 @@
+.rob{
+    width: 700px;
+    margin-top: 15px;
+}
+
+.prog {
+    width: 600px;
+}
+
+.num{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.num2{    
+    margin-top: 0px;
+}
+
+.bodu {
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+div {
+    width: 353px;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+}
+
+.umy {
+    margin-top: 50px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+.imy {
+    margin-left: 20px;
+}
+.otp {
+    text-decoration: none;
+}
+
+.mom {
+    margin-bottom: 500px;
+
+}
+
+.baton{
+    text-decoration: none;
+}
+
+.bonor {
+    width: 1775px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+}
+
+.a {
+    margin-left: 10px;
+
+
+}
+
+.pel {
+    width: 500px
+}
+
+.proga {
+    width: 800;
+}
+
+.model {
+    width: 700px
+}
+
+.hah {
+    margin-top: 570px;
+}
+
+.carta {
+    position:relative;
+    overflow:hidden;
+    width: 560px;
+    height: 410px;
+    margin-top: 50px;
+}
+
+.bot {
+    width: 1675px;
+    height: 36px;
+    margin-left: 50px;
+    
+}
+
+.bodali {
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.m {
+    height: 100px;
+    
+}
+
+.ma {
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+}
+
+.ba {
+    margin-top: 30px;
+    width: 277px;
+    height: 31px;
+    margin-left: 50px;
+    border-radius: 10px;
+    background-color:#0a0a23;
+}
+
+.so {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+   
+.bob {
+    background-color: #ffffff;
+    width: 1903px;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+}
+
+.lov {
+    display: flex;
+    flex-direction: row;
+    width: 1900px;
+}
+
+.solos {
+    display: flex;
+    flex-direction: row;
+    width: 1900px;
+}
+
+.col {
+    display: flex;
+    flex-direction: row;
+    width: 1900px;
+}
+
+.kop {
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+
+.cop {
+    margin-left: 1200px;
+    margin-right: 30px;
+    margin-top: 30px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.ckop {
+    margin-right: 30px;
+    margin-top: 30px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.op {
+    margin-right: 30px;
+    margin-top: 30px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.ko {
+    margin-top: 30px;
+    text-decoration: none;
+    color: #000000;
+}
