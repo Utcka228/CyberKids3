@@ -273,6 +273,10 @@
     .ba {
         margin-left: 0px;
     }
+
+    .col {
+        height: 320px;
+    }
 }
 
 @media screen and (max-width: 330px){
