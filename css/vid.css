@@ -216,6 +216,27 @@
         width: 200px;
     
     }
+
+        .bob {
+        width: 100px;
+        
+    }
+    
+    .cop{
+        margin-left: 60px;
+    }
+    
+    .op{
+        margin-left: 60px;
+    }
+    
+    .ko{
+        margin-left: 60px;
+    }
+    
+    .ckop {
+        margin-left: 60px;
+    }
 }
 
 @media screen and (max-width: 330px){
@@ -239,26 +260,7 @@
         width: 150px;
     }
     
-    .bob {
-        width: 100px;
-        
-    }
-    
-    .cop{
-        margin-left: 60px;
-    }
-    
-    .op{
-        margin-left: 60px;
-    }
-    
-    .ko{
-        margin-left: 60px;
-    }
-    
-    .ckop {
-        margin-left: 60px;
-    }
+
 
 }
 
