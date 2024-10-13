@@ -217,25 +217,35 @@
     
     }
 
-        .bob {
+    .bob {
         width: 100px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
         
     }
     
     .cop{
         margin-left: 60px;
+        margin-top: 0px;
+        margin-left: 60px;
     }
     
     .op{
         margin-left: 60px;
+        margin-top: 10px;
+
     }
     
     .ko{
         margin-left: 60px;
+        margin-top: 10px;
+
     }
     
     .ckop {
         margin-left: 60px;
+        margin-top: 10px;
     }
 }
 
