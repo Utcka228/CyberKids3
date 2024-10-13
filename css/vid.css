@@ -251,6 +251,24 @@
     .lop {
         margin-top: 170px;
     }
+
+    .lov {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    }
+    
+    .solos {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    }
+    
+    .col {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    }
 }
 
 @media screen and (max-width: 330px){
