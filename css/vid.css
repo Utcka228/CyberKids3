@@ -218,7 +218,7 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 330px){
     .pencil {
         width: 150px;
     }
