@@ -32,6 +32,34 @@
         <a href="котакты.html" class="op" >Контакты</a>
         <a href="точки.html" class="ko" >Наши Точки</a>
     </div>
-
+    <div class="nizi"> 
+        <center>
+        <form id="whatsappForm" class="pif" method="post" action="db.php">
+            <h2 class="imya" style="color: rgb(255, 255, 255);">Записаться на пробное занятие в WhatsApp</h2>
+            <input name="name" type="text" id="name" placeholder="Имя" class="n" required>
+            <input name="phone" type="text" id="phone" placeholder="Телефон" class="p" required>
+            <input name="ear" type="number" id="age" placeholder="Возраст Ребёнка" class="e" required>
+            <button type="submit" class="o"><p style="margin-top: 0px;margin-bottom: 0px;">Отправить в WhatsApp</p></button>
+        </form>
+        <center>
+        </div>
+        
+        <script>
+            document.getElementById("whatsappForm").addEventListener("submit", function(event) {
+                event.preventDefault(); // Остановить стандартную отправку формы
+            
+                var name = document.getElementById("name").value;
+                var phone = document.getElementById("phone").value;
+                var age = document.getElementById("age").value;
+            
+                var message = "Здравствуйте! Меня зовут " + encodeURIComponent(name) + 
+                              ". Мой телефон: " + encodeURIComponent(phone) + 
+                              ". Возраст ребёнка: " + encodeURIComponent(age) + " лет.";
+            
+                var whatsappLink = "https://wa.me/79206852628?text=" + message;
+                
+                window.open(whatsappLink, "_blank");
+            });
+            </script>
 </body>
 </html>
