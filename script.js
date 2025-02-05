@@ -9,7 +9,7 @@ document.getElementById("contact-form").addEventListener("submit", function(e) {
     const whatsappMessage = `Заявка от: ${name}%0AEmail: ${email}%0AСообщение: ${message}`;
     // Подставляем свой номер (без плюса) в ссылку
     const whatsappLink = 'https://wa.me/79206852628?text=${whatsappMessage}';
-    e.preventDefault(); // предотвращаем стандарт
+    e.preventDefault(); // предотвращаем стандар
 
     // Открываем WhatsApp
     window.open(whatsappLink, "_blank");
