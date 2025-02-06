@@ -147,148 +147,10 @@
 }
 
 @media screen and (max-width: 414px){
-    .pencil {
-        width: 280px;
-    }
 
-    .rob {
-        width: 250px;
-    }
-
-    .pel {
-        width: 280px;
-    }
-
-    .proga {
-        width: 250px;
-    }
-
-    .model { 
-        width: 250px;
-    }
 }
 
 @media screen and (max-width: 375px){
-
-    .pencil {
-        width: 150px;
-    }
-    .rob {
-        width: 170px;
-        margin-left: 43px;
-    }
-
-    .pel {
-        width: 210px;
-        margin-left: 5px;
-    }
-
-    .proga {
-        width: 210px;
-        margin-right: 25px;
-    }
-
-    .model { 
-        width: 210px;
-        margin-left: 22px;
-    }
-
-    .mom{
-        margin-bottom: 0px;
-    }
-
-    .hah{
-        margin-top: 50px;
-    
-    }
-
-    .lho{
-        width: 200px;
-
-    }
-
-    .progir {        
-        width: 200px;
-
-    }
-
-    .prog {        
-        width: 200px;
-    
-    }
-
-    .bob {
-        width: 100px;
-        display: flex;
-        flex-direction: column;
-        flex-wrap: nowrap;
-        
-    }
-    
-    .cop{
-        margin-left: 60px;
-        margin-top: 0px;
-        margin-left: 60px;
-    }
-    
-    .op{
-        margin-left: 60px;
-        margin-top: 10px;
-
-    }
-    
-    .ko{
-        margin-left: 60px;
-        margin-top: 10px;
-
-    }
-    
-    .ckop {
-        margin-left: 60px;
-        margin-top: 10px;
-    }
-
-    .lop {
-        margin-top: 170px;
-    }
-
-    .lov {
-    display: flex;
-    flex-direction: column;
-    width: 300px;
-    }
-    
-    .solos {
-    display: flex;
-    flex-direction: column;
-    width: 300px;
-    }
-    
-    .col {
-    display: flex;
-    flex-direction: column;
-    width: 300px;
-    }
-
-    .ba {
-        margin-top: 0px;
-        margin-left: 10px;
-    }
-
-    .col {
-        height: 320px;
-    }
-
-    .ma {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .carta {
-        margin-top: 170px;
-    }
-
-
 
     .img {
         display: none;
@@ -298,25 +160,8 @@
 }
 
 @media screen and (max-width: 330px){
-    .pencil {
-        width: 150px;
-    }
 
-    .rob {
-        margin-left: 15px;
-    }
 
-    .pel {
-        width: 190px;
-    }
-
-    .proga {
-        width: 150px;
-    }
-
-    .model { 
-        width: 150px;
-    }
     
 
 
