@@ -155,6 +155,100 @@
     .img {
         display: none;
     }
+    .border {
+        flex-direction: column;
+        width: 375px;
+    }
+
+    .cop {
+        margin-left: 0px;
+        margin-top: 0px;
+
+    }
+
+    .ckop {
+        margin-top: 10px;
+
+    }
+
+    .op {
+        margin-top: 10px;
+    }
+
+    .ko {
+        margin-top: 10px;
+
+    }
+
+
+}
+
+@media screen and (max-width: 280px){
+
+    .niz {
+        height: 1900px;
+    }
+
+    .img {
+        display: none;
+    }
+    .border {
+        flex-direction: column;
+        width: 280px;
+    }
+
+    .cop {
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .ckop {
+        margin-top: 10px;
+        
+    }
+
+    .op {
+        margin-top: 10px;
+        
+    }
+
+    .ko {
+        margin-top: 10px;
+        
+    }
+
+    .nmz {
+        margin-top: 100px;
+    }
+
+    .sections {
+        margin-left: 0px;
+     
+    }
+
+    .image {
+        width: 280px;
+    }
+
+    .revers {
+        flex-direction: column-reverse;
+    }
+
+    .reverse {
+        flex-direction: column;
+    }
+
+
+
+    .container {
+        align-items: normal;
+        justify-content: normal;
+    }
+
+    .containe {
+        align-items: normal;
+        justify-content: normal;
+    }
 
 
 }

@@ -82,7 +82,33 @@
     gap: 20px;
 }
 
+.containe {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: space-between; /* Размещает текст и картинку равномерно */
+    gap: 20px;
+}
+
+.contain {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Размещает текст и картинку равномерно */
+    gap: 20px;
+}
+
+.contai {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Размещает текст и картинку равномерно */
+    gap: 20px;
+}
+
 .reverse {
+    flex-direction: row-reverse; /* Меняет порядок (картинка справа) */
+}
+
+.revers {
     flex-direction: row-reverse; /* Меняет порядок (картинка справа) */
 }
 
