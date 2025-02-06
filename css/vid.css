@@ -156,6 +156,7 @@
 
     .niz {
         height: 2000px;
+        width: 375px;
     }
 
     .img {
@@ -253,6 +254,10 @@
     .imya {
         width: 300px;
         margin-bottom: 0px;
+    }
+
+    .pif {
+        width: 375px;
     }
 
 }
