@@ -84,20 +84,20 @@
 
 .containe {
     display: flex;
-    flex-direction: column-reverse;
+    
     align-items: center;
     justify-content: space-between; /* Размещает текст и картинку равномерно */
     gap: 20px;
 }
 
-.contain {
+.container {
     display: flex;
     align-items: center;
     justify-content: space-between; /* Размещает текст и картинку равномерно */
     gap: 20px;
 }
 
-.contai {
+.containe {
     display: flex;
     align-items: center;
     justify-content: space-between; /* Размещает текст и картинку равномерно */
