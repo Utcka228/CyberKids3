@@ -221,6 +221,10 @@
         flex-direction: column-reverse;
     }
 
+    .sdac {
+        width: 300px;
+    }
+
 
 }
 
