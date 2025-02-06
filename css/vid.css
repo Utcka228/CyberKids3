@@ -150,40 +150,9 @@
 
 }
 
+
+
 @media screen and (max-width: 375px){
-
-    .img {
-        display: none;
-    }
-    .border {
-        flex-direction: column;
-        width: 375px;
-    }
-
-    .cop {
-        margin-left: 0px;
-        margin-top: 0px;
-
-    }
-
-    .ckop {
-        margin-top: 10px;
-
-    }
-
-    .op {
-        margin-top: 10px;
-    }
-
-    .ko {
-        margin-top: 10px;
-
-    }
-
-
-}
-
-@media screen and (max-width: 300px){
 
     .niz {
         height: 1900px;
