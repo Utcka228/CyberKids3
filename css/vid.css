@@ -164,6 +164,7 @@
     .border {
         flex-direction: column;
         width: 375px;
+        height: 180px;
     }
 
     .cop {
@@ -184,10 +185,6 @@
     .ko {
         margin-top: 10px;
         
-    }
-
-    .nmz {
-        margin-top: 100px;
     }
 
     .sections {
@@ -225,6 +222,13 @@
         width: 300px;
     }
 
+    .vbn {
+        width: 300px;
+    }
+
+    .poi {
+        width: 300px;
+    }
 
 }
 
